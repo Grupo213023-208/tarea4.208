@@ -1,2 +1,17 @@
-# tarea4.208
-tarea numero cuatro, sobre repositorios en GitHub 
+Software FJ
+//Sistema desarrollado en Python utilizando Programación Orientada a Objetos.
+
+Características
+
+-Gestión de clientes
+-Gestión de reservas
+-Manejo de excepciones
+-Logs de errores
+-Herencia
+-Polimorfismo
+-Encapsulación
+
+Tecnologías
+-Python
+-GitHub
+-Visual Studio Code

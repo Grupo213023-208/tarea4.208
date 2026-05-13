@@ -8,3 +8,13 @@
 2026-05-12 20:13:48,136 - INFO - Reserva Exitosa: Esteban Mar - Costo: 250000
 2026-05-12 20:13:48,136 - INFO - Reserva Exitosa: Jose Becerra - Costo: 250000
 2026-05-12 20:13:48,136 - INFO - Reserva Exitosa: Mariana Rosas - Costo: 100000.0
+2026-05-12 20:31:47,292 - INFO - Reserva Exitosa: Yesid Preciado - Costo: 150000
+2026-05-12 20:31:47,292 - INFO - Reserva Exitosa: Angela Gomez - Costo: 100000
+2026-05-12 20:31:47,292 - INFO - Reserva Exitosa: Boris Lopez - Costo: 125000
+2026-05-12 20:31:47,293 - ERROR - Fallo en reserva: No se permite alquiler por más de 30 días o formato inválido.
+2026-05-12 20:31:47,293 - ERROR - Fallo en reserva: Nivel de asesoría 'pro' no reconocido.
+2026-05-12 20:31:47,293 - ERROR - Fallo en reserva: Las horas deben ser un número mayor a cero.
+2026-05-12 20:31:47,293 - INFO - Reserva Exitosa: Cesar Paz - Costo: 150000.0
+2026-05-12 20:31:47,293 - INFO - Reserva Exitosa: Esteban Mar - Costo: 250000
+2026-05-12 20:31:47,293 - INFO - Reserva Exitosa: Jose Becerra - Costo: 250000
+2026-05-12 20:31:47,294 - INFO - Reserva Exitosa: Mariana Rosas - Costo: 100000.0
